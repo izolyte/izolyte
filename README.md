@@ -1,6 +1,6 @@
 ## Who I Am?
 
-I'm Chayanon Somatanai (you can call me Chin), a software developer from Thailand with nearly 3 years of hands-on experience. My primary focus is frontend engineering. I build scalable, performant UIs with solid architecture and design systems. I care about writing type-safe, maintainable code and designing systems that grow with the product.
+I'm Chayanon Somatanai (you can call me Shin), a software developer from Thailand with nearly 3 years of hands-on experience. My primary focus is frontend engineering. I build scalable, performant UIs with solid architecture and design systems. I care about writing type-safe, maintainable code and designing systems that grow with the product.
 
 
 ##  What Drives Me?
