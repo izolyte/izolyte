@@ -25,7 +25,7 @@ I'm obsessed with building architecture and design systems that scale. I love wo
 ## 🛠️ Tech Stack
 
 ### Languages
-[![Skills](https://skillicons.dev/icons?i=ts,js,python)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,python,cpp)](https://skillicons.dev)
 
 ### Frontend Framework & Styling
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwindcss,scss)](https://skillicons.dev)
